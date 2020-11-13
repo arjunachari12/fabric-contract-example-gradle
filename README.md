@@ -1,0 +1,1 @@
+# fabric-contract-example-gradle
